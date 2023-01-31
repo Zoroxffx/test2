@@ -1247,9 +1247,9 @@ def zorox1():
 	print("[+]==============================================")
 	zoroxlovesyou = input("[+] [CHOOSE] :- ")
 	if zoroxlovesyou in ['y','Y','1','yes','YES','Yes']:
-		zorox1-xd.append('y')
+		zorox.append('y')
 	else:
-		zorox1-xd.append('n')
+		zorox.append('n')
 	print("[+]==============================================")
 	print("[+] DO YOU WANNA SHOW CP IDZ (Y/N) :- ")
 	print("[+]==============================================")
